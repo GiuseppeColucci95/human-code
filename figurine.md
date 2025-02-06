@@ -38,7 +38,7 @@ Dopo averle sfilate dal pacchetto, me le passo tra le mani controllando nell’a
 - Prendo il mazzetto dei doppioni
   <span style="color: yellow">
   - Cerco il mazzetto dei doppioni
-  - Prendo l'album
+  - Prendo il mazzetto
   </span>
 - Prendo il pacchetto delle figurine
 - Apro il pacchetto
